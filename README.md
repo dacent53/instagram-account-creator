@@ -3,4 +3,4 @@ instagram-account-creator
 
 
 ios request, last version
-## Telegram @alethino - https://t.me/alethino
+## Telegram @dacent53 - https://t.me/dacent53
